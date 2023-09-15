@@ -16,5 +16,5 @@ This simple website serves as a platform to display and share information about 
 
 ## Demo
 
-You can see a live demo of this website [here]()
+You can see a live demo of this website [here](https://kinishii1.github.io/foods-website/)
 
